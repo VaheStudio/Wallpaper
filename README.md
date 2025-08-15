@@ -1,6 +1,7 @@
 # Blender简易壁纸 适用于一些简单任务素材
 ## 壁纸渲染的工具为: Eevee 和 Cycles
 ### CPU和显卡 "满载而归" 
+## 原图请查看 [NeoLineWallPaper](https://example.com)
 
 # EEVEE 与 Cycles 渲染引擎对比（来源于DeepSeek）
 
